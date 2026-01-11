@@ -51,12 +51,12 @@ No proprietary datasets are required.
 
 Local factors such as zoning, workforce availability, seasonality, tourism, and existing competition matter and are not fully captured by the data.
 ## Repository Structure
-/notebooks      Jupyter notebooks (numbered, sequential)
-/src            Reusable Python functions
-/data
-  /raw          Source data pulls
-  /processed    Cleaned and derived datasets
-/outputs        Tables and figures for reporting
+/notebooks      Jupyter notebooks (numbered, sequential)  
+/src            Reusable Python functions  
+/data  
+  /raw          Source data pulls  
+  /processed    Cleaned and derived datasets  
+/outputs        Tables and figures for reporting  
 
 ## Reuse
 The analysis is designed to be adaptable:
